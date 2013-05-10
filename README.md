@@ -20,4 +20,4 @@ ENHANCEMENT LECTURES and/or PRACTICAL SEMINARS:
 6. The Work of the Open Knowledge Foundation
  
 Video footage from the course pilot in January 2013 can now be viewed on the Open Science Training Initiative site,
-www.opensciencetraining.com
+www.opensciencetraining.com/movielist.php
