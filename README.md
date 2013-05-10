@@ -10,13 +10,19 @@ The Open Science Training Initiative (OSTI) provides a series of lectures on top
 Course materials scheduled for May 2013 release are as follows:
 -------------------------------------------------------------------
 CORE LECTURES:
+
 1. Introduction: Reproducibility and Open Science
+
 2. Code, Content and Data Licensing
+
 3. Open Access Publishing
 
 ENHANCEMENT LECTURES and/or PRACTICAL SEMINARS:
+
 4. Version Control
+
 5. Data Management Plans
+
 6. The Work of the Open Knowledge Foundation
  
 Video footage from the course pilot in January 2013 can now be viewed on the Open Science Training Initiative site,
