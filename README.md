@@ -7,7 +7,7 @@ Welcome to the GitHub repository for the Open Science Training Initiative!
 
 The Open Science Training Initiative (OSTI) provides a series of lectures on topics in data management and open science, designed to sit over existing taught courses in any area of the sciences. All course materials carry a CC-BY licence, so you're free to take the slides (or indeed a subset of them) and modify them to suit your own requirements, as long as you provide an attribution to the original authors.
 
-Brief descriptions of the course materials will appear below as files are added to this repo.
+Brief descriptions of the course materials will appear below as files are added to this repo. If you have any questions about OSTI or the materials supplied here (i.e. not queries relating to the use of, or problems with, GitHub), please email *enquiries[at]opensciencetraining.com*
 
 CORE LECTURES:
 --------------
