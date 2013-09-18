@@ -33,6 +33,8 @@ ENHANCEMENT LECTURES and/or PRACTICAL SEMINARS:
 ------------------------------------------------
 4. *Version Control*
 
+- `Supp1-VersionControl` is a slide deck providing a brief introduction to version control, and is supplied in both .ODP and .PPTX formats. Please note that this is NOT intended for use as a stand alone lecture, but is designed for use as part of a hands-on workshop in Version Control and GitHub. Accompanying workshop materials to follow soon.
+
 5. *Data Management Plans*
 
 6. *The Work of the Open Knowledge Foundation*
