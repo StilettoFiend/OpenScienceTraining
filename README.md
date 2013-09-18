@@ -14,11 +14,18 @@ CORE LECTURES:
 1. *Introduction: Reproducibility and Open Science*
 (Divided into two sets of lecture slides: 1A introduces the themes of openness and reproducibility, while 1B explains how Rotation Based Learning works.)
 
-- `Lecture1B:RotationOutline` is a slide deck for the second half of the opening lecture and is supplied in both .ODP and .PPTX formats. These slides assist the lecturer in explaining how Rotation Based Learning works; ready-formatted slides are included for listing of student work groups, lecture times and deadlines.
+- `Lecture1B-RotationOutline` is a slide deck for the second half of the opening lecture and is supplied in both .ODP and .PPTX formats. These slides assist the lecturer in explaining how Rotation Based Learning works; ready-formatted slides are included for listing of student work groups, lecture times and deadlines.
 
 - `ExampleRotationHandout` is a text document handout intended as a handout for the OSTI student cohort; it is supplied in two formats: .ODT and .DOCX. Although the version supplied refers to GitHub, this is by no means an essential and course leaders may choose to use their preferred project hoster.
 
+- `Lecture1-GuidanceNotes` will be uploaded shortly. These are not intended as a script, but instead provide a set of advice notes for prospective lecturers/course leaders, along with other links and sources of information on reproducibility and open science.
+
 2. *Code, Content and Data Licensing*
+
+- `Lecture2-Licensing` is a slide deck providing an introduction to the three main categories of licensing in scientific work: Code, Content and Data. This lecture is provided in both .ODP and .PPTX formats.
+
+- `Lecture2-GuidanceNotes` will be uploaded shortly.
+
 
 3. *Open Access Publishing*
 
