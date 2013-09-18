@@ -11,7 +11,7 @@ Brief descriptions of the course materials will appear below as files are added 
 
 CORE LECTURES:
 --------------
-1. *Introduction: Reproducibility and Open Science*
+*Introduction: Reproducibility and Open Science*
 (Divided into two sets of lecture slides: 1A introduces the themes of openness and reproducibility, while 1B explains how Rotation Based Learning works.)
 
 - `Lecture1B-RotationOutline` is a slide deck for the second half of the opening lecture and is supplied in both .ODP and .PPTX formats. These slides assist the lecturer in explaining how Rotation Based Learning works; ready-formatted slides are included for listing of student work groups, lecture times and deadlines.
@@ -20,26 +20,26 @@ CORE LECTURES:
 
 - `Lecture1-GuidanceNotes` will be uploaded shortly. These are not intended as a script, but instead provide a set of advice notes for prospective lecturers/course leaders, along with other links and sources of information on reproducibility and open science.
 
-2. *Code, Content and Data Licensing*
+*Code, Content and Data Licensing*
 
 - `Lecture2-Licensing` is a slide deck providing an introduction to the three main categories of licensing in scientific work: Code, Content and Data. This lecture is provided in both .ODP and .PPTX formats.
 
 - `Lecture2-GuidanceNotes` will be uploaded shortly.
 
 
-3. *Open Access Publishing*
+*Open Access Publishing*
 
 ENHANCEMENT LECTURES and/or PRACTICAL SEMINARS:
 ------------------------------------------------
-4. *Version Control*
+*Version Control*
 
 - `Supp1-VersionControl` is a slide deck providing a brief introduction to version control, and is supplied in both .ODP and .PPTX formats. Please note that this is NOT intended for use as a stand alone lecture, but is designed for use as part of a hands-on workshop in Version Control and GitHub. Accompanying workshop materials to follow soon.
 
-5. *Data Management Plans*
+*Data Management Plans*
 
 - `Supp2-DMPs` is a slide deck designed to introduce students to Data Management Planning. Starting from an overview of the scale and scope of modern scientific data, the slides motivate the need for DMPs in research and take students through the short-, medium- and long-term steps for producing a plan and carrying it out. Please note that these slides are NOT designed for use as a stand-alone lecture, but are meant to form part of a hands-on mini-workshop. Exercises and practical materials to follow soon.
 
-6. *The Work of the Open Knowledge Foundation*
+*The Work of the Open Knowledge Foundation*
  
 Video footage from the course pilot in January 2013 can now be viewed on the Open Science Training Initiative site,
 www.opensciencetraining.com/movielist.php
