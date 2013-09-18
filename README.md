@@ -37,6 +37,8 @@ ENHANCEMENT LECTURES and/or PRACTICAL SEMINARS:
 
 5. *Data Management Plans*
 
+- `Supp2-DMPs` is a slide deck designed to introduce students to Data Management Planning. Starting from an overview of the scale and scope of modern scientific data, the slides motivate the need for DMPs in research and take students through the short-, medium- and long-term steps for producing a plan and carrying it out. Please note that these slides are NOT designed for use as a stand-alone lecture, but are meant to form part of a hands-on mini-workshop. Exercises and practical materials to follow soon.
+
 6. *The Work of the Open Knowledge Foundation*
  
 Video footage from the course pilot in January 2013 can now be viewed on the Open Science Training Initiative site,
