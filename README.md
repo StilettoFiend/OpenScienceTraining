@@ -26,8 +26,10 @@ CORE LECTURES:
 
 - `Lecture2-GuidanceNotes` will be uploaded shortly.
 
-
 *Open Access Publishing*
+
+- `Lecture3-Publishing` is a slide deck designed to provide a basic introduction to academic publication. The presentation includes schematics for use in describing the "traditional" model of science publishing, as well as Green and Gold formats. This slide deck is provided in both .ODP and .PPTX formats.
+
 
 ENHANCEMENT LECTURES and/or PRACTICAL SEMINARS:
 ------------------------------------------------
