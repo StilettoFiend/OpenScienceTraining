@@ -44,6 +44,7 @@ ENHANCEMENT LECTURES and/or PRACTICAL SEMINARS:
 - `Supp2-DMPs` is a slide deck designed to introduce students to Data Management Planning. Starting from an overview of the scale and scope of modern scientific data, the slides motivate the need for DMPs in research and take students through the short-, medium- and long-term steps for producing a plan and carrying it out. Please note that these slides are NOT designed for use as a stand-alone lecture, but are meant to form part of a hands-on mini-workshop. Exercises and practical materials to follow soon.
 
 *LegoSessions Folder*
+
 This directory contains the materials used at the #solo13lego workshop at SpotOn London 2013. The workshop is designed to get participants thinking about the role of the research or information user, in the context of training students to deliver reproducible research.
 
 - `solo13lego` is a slide deck designed to introduce and close the session. The Solo13 materials are intended as a workshop, not a seminar, and so any presentation slides should be used sparingly. This slide deck is supplied in three formats: ODP, PPTX and PDF.
