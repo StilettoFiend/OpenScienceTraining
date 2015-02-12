@@ -32,6 +32,8 @@ CORE LECTURES:
 
 - `Lecture3-Publishing` is a slide deck designed to provide a basic introduction to academic publication. The presentation includes schematics for use in describing the "traditional" model of science publishing, as well as Green and Gold formats. This slide deck is provided in both .ODP and .PPTX formats.
 
+Video footage from the course pilot in January 2013 can be viewed on the Open Science Training Initiative site,
+www.opensciencetraining.com/movielist.php
 
 SUPPLEMENTARIES:
 ------------------------------------------------
@@ -43,7 +45,7 @@ SUPPLEMENTARIES:
 
 - `Supp2-DMPs` is a slide deck designed to introduce students to Data Management Planning. Starting from an overview of the scale and scope of modern scientific data, the slides motivate the need for DMPs in research and take students through the short-, medium- and long-term steps for producing a plan and carrying it out. Please note that these slides are NOT designed for use as a stand-alone lecture, but are meant to form part of a hands-on mini-workshop. Exercises and practical materials to follow soon.
 
-Video footage from the course pilot in January 2013 can now be viewed on the Open Science Training Initiative site,
+Video footage from the course pilot in January 2013 can be viewed on the Open Science Training Initiative site,
 www.opensciencetraining.com/movielist.php
 
 LEGO SESSIONS:
