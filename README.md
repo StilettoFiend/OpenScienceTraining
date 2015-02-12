@@ -3,7 +3,7 @@ OpenScienceTraining
 
 Welcome to the GitHub repository for the Open Science Training Initiative!
 
-**** PLEASE NOTE: All OSTI slide decks are now available. Keep checking back for updates and new materials: we'll be adding Guidance Notes to accompany each slide deck in the near future ****
+**** PLEASE NOTE: All OSTI slide decks are now available. Keep checking back for updates and new materials: we'll be adding Guidance Notes to accompany each slide deck soon ****
 
 The Open Science Training Initiative (OSTI) provides a series of lectures on topics in data management and open science, designed to sit over existing taught courses in any area of the sciences. All course materials carry a CC-BY licence, so you're free to take the slides (or indeed a subset of them) and modify them to suit your own requirements, as long as you provide an attribution to the original authors.
 
@@ -33,7 +33,7 @@ CORE LECTURES:
 - `Lecture3-Publishing` is a slide deck designed to provide a basic introduction to academic publication. The presentation includes schematics for use in describing the "traditional" model of science publishing, as well as Green and Gold formats. This slide deck is provided in both .ODP and .PPTX formats.
 
 
-ENHANCEMENT LECTURES and/or PRACTICAL SEMINARS:
+SUPPLEMENTARIES:
 ------------------------------------------------
 *Version Control*
 
@@ -43,13 +43,17 @@ ENHANCEMENT LECTURES and/or PRACTICAL SEMINARS:
 
 - `Supp2-DMPs` is a slide deck designed to introduce students to Data Management Planning. Starting from an overview of the scale and scope of modern scientific data, the slides motivate the need for DMPs in research and take students through the short-, medium- and long-term steps for producing a plan and carrying it out. Please note that these slides are NOT designed for use as a stand-alone lecture, but are meant to form part of a hands-on mini-workshop. Exercises and practical materials to follow soon.
 
-*LegoSessions Folder*
+Video footage from the course pilot in January 2013 can now be viewed on the Open Science Training Initiative site,
+www.opensciencetraining.com/movielist.php
 
+LEGO SESSIONS:
+------------------------------------------------
 This directory contains the materials used at the #solo13lego workshop at SpotOn London 2013. The workshop is designed to get participants thinking about the role of the research or information user, in the context of training students to deliver reproducible research.
 
 - `solo13lego` is a slide deck designed to introduce and close the session. The Solo13 materials are intended as a workshop, not a seminar, and so any presentation slides should be used sparingly. This slide deck is supplied in three formats: ODP, PPTX and PDF.
 
 - The files named `Solo13-Group[A/B/C]` provide instructions to build a simple Lego microscope. Please note that these are designed to be bad instructions! By working with error-laden instructions that do not contain schematics or images, participants should be asked to identify why these instructions fail, and in doing so develop an awareness of the requirements of the user role.
+- 
+Video footage from the SpotOn London session in November 2013 can now be viewed alongside the session's original listing, http://www.nature.com/spoton/event/spoton-london-2013-making-research-useful-the-consequences-of-bad-communication/
  
-Video footage from the course pilot in January 2013 can now be viewed on the Open Science Training Initiative site,
-www.opensciencetraining.com/movielist.php
+
