@@ -53,7 +53,7 @@ This directory contains the materials used at the #solo13lego workshop at SpotOn
 - `solo13lego` is a slide deck designed to introduce and close the session. The Solo13 materials are intended as a workshop, not a seminar, and so any presentation slides should be used sparingly. This slide deck is supplied in three formats: ODP, PPTX and PDF.
 
 - The files named `Solo13-Group[A/B/C]` provide instructions to build a simple Lego microscope. Please note that these are designed to be bad instructions! By working with error-laden instructions that do not contain schematics or images, participants should be asked to identify why these instructions fail, and in doing so develop an awareness of the requirements of the user role.
-- 
+
 Video footage from the SpotOn London session in November 2013 can now be viewed alongside the session's original listing, http://www.nature.com/spoton/event/spoton-london-2013-making-research-useful-the-consequences-of-bad-communication/
  
 
