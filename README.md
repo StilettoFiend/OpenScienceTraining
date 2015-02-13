@@ -14,7 +14,7 @@ CORE LECTURES:
 *Introduction: Reproducibility and Open Science*
 (Divided into two sets of lecture slides: 1A introduces the themes of openness and reproducibility, while 1B explains how Rotation Based Learning works.)
 
-- `Lecture1A-OpenAndRepro-beta` is a slide deck for the first half of the OSTI opening lecture. Content provides a broad introduction to the nature and benefits of openness in scientific research, as well as current examples of open practice. PLEASE NOTE THAT LECTURE 1A IS CURRENTLY SUPPLIED IN BETA VERSION: additional images and embedded videos will appear in updated versions.
+- `Lecture1A-OpenAndRepro` is a slide deck for the first half of the OSTI opening lecture. Content provides a broad introduction to the nature and benefits of openness in scientific research, as well as current examples of open practice.
 
 - `Lecture1B-RotationOutline` is a slide deck for the second half of the opening lecture and is supplied in both .ODP and .PPTX formats. These slides assist the lecturer in explaining how Rotation Based Learning works; ready-formatted slides are included for listing of student work groups, lecture times and deadlines.
 
